@@ -1,4 +1,4 @@
-# Fast-Mogo-Project
+# [Fast-Mogo-Project](https://victorytory.github.io/Fast-Mogo-Project/)
 #### This project is one of the initial and test projects. Its main task is to show the knowledge of HTML/CSS.
 
  To run the project on your computer, you need:
